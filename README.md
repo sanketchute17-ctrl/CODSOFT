@@ -1,8 +1,9 @@
 # 🚀 CODSOFT AI Internship Projects
 
-### 🤖 Mochi AI Chatbot
+
+### 🖼 Image Captioning AI
 ▶ View Project  
-https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/MOCHI_AI
+https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/Image_Captioning_AI
 
 ---
 
@@ -10,11 +11,12 @@ https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/MOCHI_AI
 ▶ View Project  
 https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/TicTacToe_AI_Project
 
----
 
-### 🖼 Image Captioning AI
+### 🤖 Mochi AI Chatbot
 ▶ View Project  
-https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/Image_Captioning_AI
+https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/MOCHI_AI
+
+---
 
 # 🧠 Technologies Used
 
@@ -32,6 +34,7 @@ https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/Image_Captioning_AI
 **Sanket Chute**
 
 CODSOFT Artificial Intelligence Internship
+
 
 
 
