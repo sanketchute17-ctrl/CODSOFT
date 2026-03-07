@@ -1,35 +1,20 @@
-# 🚀 CODSOFT Artificial Intelligence Internship
+# 🚀 CODSOFT AI Internship Projects
 
-This repository contains the projects completed during the **CODSOFT Artificial Intelligence Internship**.
-
----
-
-# 📌 Projects
-
-## 🤖 Mochi AI Chatbot
-A simple AI chatbot built using Python that responds to user commands.
-
-🔗 **View Project**
-[Open Mochi AI](./MOCHI_AI)
+### 🤖 Mochi AI Chatbot
+▶ View Project  
+https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/MOCHI_AI
 
 ---
 
-## 🎮 Tic Tac Toe AI
-An AI-powered Tic Tac Toe game where users can play against an intelligent computer opponent.
-
-
-
-[▶ View Project](./TicTacToe_AI_Project)
+### 🎮 Tic Tac Toe AI
+▶ View Project  
+https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/TicTacToe_AI_Project
 
 ---
 
-## 🖼️ Image Captioning AI
-An AI system that generates captions for images using a vision-language model.
-
-🔗 **View Project**
-[Open Image Captioning AI](./IMAGE_CAPTIONING_AI)
-
----
+### 🖼 Image Captioning AI
+▶ View Project  
+https://github.com/sanketchute17-ctrl/CODSOFT/tree/main/Image_Captioning_AI
 
 # 🧠 Technologies Used
 
@@ -47,6 +32,7 @@ An AI system that generates captions for images using a vision-language model.
 **Sanket Chute**
 
 CODSOFT Artificial Intelligence Internship
+
 
 
 
