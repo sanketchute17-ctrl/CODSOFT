@@ -17,8 +17,9 @@ A simple AI chatbot built using Python that responds to user commands.
 ## 🎮 Tic Tac Toe AI
 An AI-powered Tic Tac Toe game where users can play against an intelligent computer opponent.
 
-🔗 **View Project**
-[Open Tic Tac Toe AI](./TIC_TAC_TOE_AI)
+## 🎮 Tic Tac Toe AI
+
+[▶ View Project](./TicTacToe_AI_Project)
 
 ---
 
@@ -46,4 +47,5 @@ An AI system that generates captions for images using a vision-language model.
 **Sanket Chute**
 
 CODSOFT Artificial Intelligence Internship
+
 
